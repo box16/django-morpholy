@@ -1,0 +1,3 @@
+[submodule "morpholy"]
+	path = morpholy
+	url = https://github.com/box16/morpholy.git
